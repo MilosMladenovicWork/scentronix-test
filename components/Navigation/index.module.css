@@ -1,0 +1,12 @@
+.navigation a,
+.secondary-navigation a {
+  text-transform: uppercase;
+}
+
+.secondary-navigation a {
+  font-size: 80%;
+}
+
+.active-link {
+  border-bottom: 2px solid rgb(207, 98, 98);
+}

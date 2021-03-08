@@ -2,7 +2,7 @@ import React from 'react';
 
 import { Container, Typography, Box } from '@material-ui/core';
 
-export default function Home() {
+export default function Shop() {
   return (
     <Container disableGutters>
       <Box p={5}>

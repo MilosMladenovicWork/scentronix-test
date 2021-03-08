@@ -1,0 +1,10 @@
+.breadcrumbs a {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  font-weight: bold;
+}
+
+.short-info-and-actions span,
+.short-info-and-actions p {
+  font-weight: bold;
+}
